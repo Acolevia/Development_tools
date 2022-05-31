@@ -2,7 +2,7 @@
 
 * 一个用 flutter 开发的工具，目前是这样
   
-  ![](C:\Users\WangWei\Desktop\DevelopmentTools\assets\app.png)
+  ![](./assets/app.png)
 
 ## 开发目的
 
@@ -21,5 +21,3 @@
 1. 目前只写了大概的图形界面，具体的硬件操作部分还有待开发
 
 2. 流媒体的处理还没有在真机上跑过，包括卡顿会不会影响操作等情况
-
-3. 
